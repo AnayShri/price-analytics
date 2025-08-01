@@ -1,0 +1,13 @@
+name: price_analytics
+version: 1.0.0
+publish_to: none
+description: Real-time price analytics component
+
+environment:
+  sdk: ">=2.17.0 <4.0.0"
+
+dependencies:
+  collection: ^1.17.0
+
+dev_dependencies:
+  test: ^1.24.0
